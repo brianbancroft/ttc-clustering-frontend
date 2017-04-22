@@ -2,6 +2,8 @@
 
 > A frontend for my TTC project
 
+##[Main project and readme](https://github.com/brianbancroft/ttc-clustering)
+
 ## Build Setup
 
 ``` bash
