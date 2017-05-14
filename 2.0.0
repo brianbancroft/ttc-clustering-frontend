@@ -1,0 +1,35 @@
+- is-expression@2.1.0 node_modules/constantinople/node_modules/is-expression
+- acorn@4.0.11 node_modules/is-expression/node_modules/acorn
+ttc-frontend@1.0.0 /Users/brianbancroft/programming/personal/ttc-frontend
+└─┬ UNMET PEER DEPENDENCY pug@2.0.0-beta.12
+  ├─┬ pug-code-gen@1.1.1 
+  │ ├─┬ constantinople@3.1.0 
+  │ │ └── is-expression@2.1.0 
+  │ ├── doctypes@1.1.0 
+  │ ├── js-stringify@1.0.2 
+  │ ├── pug-attrs@2.0.2 
+  │ ├── pug-error@1.3.2 
+  │ ├── void-elements@2.0.1 
+  │ └─┬ with@5.1.1 
+  │   └─┬ acorn-globals@3.1.0 
+  │     └── acorn@4.0.11 
+  ├─┬ pug-filters@2.1.2 
+  │ ├─┬ clean-css@3.4.25 
+  │ │ ├── commander@2.8.1 
+  │ │ └── source-map@0.4.4 
+  │ └─┬ jstransformer@1.0.0 
+  │   ├── is-promise@2.1.0 
+  │   └─┬ promise@7.1.1 
+  │     └── asap@2.0.5 
+  ├─┬ pug-lexer@3.1.0 
+  │ ├─┬ character-parser@2.2.0 
+  │ │ └── is-regex@1.0.4 
+  │ └─┬ is-expression@3.0.0 
+  │   └── acorn@4.0.11 
+  ├── pug-linker@2.0.3 
+  ├── pug-load@2.0.6 
+  ├─┬ pug-parser@2.0.2 
+  │ └── token-stream@0.0.1 
+  ├── pug-runtime@2.0.3 
+  └── pug-strip-comments@1.0.2 
+
